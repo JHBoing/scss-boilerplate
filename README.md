@@ -1,6 +1,6 @@
 # Static Site Boilerplate
 
-    A simple boilerplate to jumpstart the development of simple static sites.
+ A simple boilerplate to jumpstart the development of simple static sites.
 
 ## Installing
 
