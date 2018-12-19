@@ -1,0 +1,14 @@
+{
+  "name": "Boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate to starting projects",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass scss/main.scss css/style.css -w"
+  },
+  "author": "Joao",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.10.0"
+  }
+}
